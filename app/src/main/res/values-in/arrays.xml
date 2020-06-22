@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="donation_methods">
+        <item>Alipay</item>
+        <item>WeChat</item>
+        <item>QQ</item>
+        <item>Red Packet Code</item>
+        <item>Daftar Donasi</item>
+    </string-array>
+    <string-array name="languages">
+        <item>Auto</item>
+        <item>English</item>
+        <item>简体中文</item>
+        <item>繁體中文</item>
+        <item>한국어</item>
+        <item>ไทย</item>
+        <item>Español</item>
+        <item>Français</item>
+        <item>Português</item>
+        <item>Bahasa Indonesia</item>
+    </string-array>
+    <string-array name="translators">
+        <item>MATIKAN</item>
+        <item>Google</item>
+        <item>YouDao</item>
+    </string-array>
+    <string-array name="mod_list_sort_by">
+        <item>dengan Nama(naik)</item>
+        <item>dengan Nama(turun)</item>
+        <item>dengan Tanggal(naik)</item>
+        <item>dengan Tanggal(turun)</item>
+    </string-array>
+    <string-array name="qq_group_list">
+        <item>860453392</item>
+        <item>1078428449</item>
+        <item>980882763</item>
+    </string-array>
+</resources>
